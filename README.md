@@ -11,9 +11,6 @@ Codificador/decodificador de texto usando HTML, CSS e JavaScript, onde as letras
 ### Web
 ![Web](https://github.com/renato-roca-dev/decodify/blob/master/imgs/decodify-foto-web.png)
 
-### Mobile
-![Mobile](https://github.com/renato-roca-dev/decodify/blob/master/imgs/decodify-foto-mobile.png)
-
 ### Preview
 ![Gif](https://github.com/renato-roca-dev/decodify/blob/master/imgs/decodify-video-projeto.gif)
 
